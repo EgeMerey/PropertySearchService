@@ -1,0 +1,2 @@
+# PropertySearchService
+Design of an online Property Purchasing System that offers its clients the capability of searching for Properties, selecting and saving Properties of interest, making purchase offers for selected Properties, finding an appropriate loan to cover the cost of purchase of selected Properties, and handling loan applications online. To provide these capabilities, it uses 7 web services coded in JAVA using spring framework. WSDLs are created form these files. Used and populated database: localhost:8080/h2-console
